@@ -1,7 +1,6 @@
 export const SITE = {
-  name: "Qwind",
-
-  origin: "https://qwind.pages.dev",
+  name: "QPiped",
+  origin: "https://qpiped.pages.dev",
   basePathname: "/",
-  trailingSlash: true
+  trailingSlash: true,
 };
