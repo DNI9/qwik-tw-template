@@ -1,4 +1,4 @@
-# QPiped
+# Qwik Template
 
 ### Commands
 
